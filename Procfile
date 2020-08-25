@@ -1,1 +1,1 @@
-web:gunicorn backend_for_android:app
+web: gunicorn backend_for_android.py:app
